@@ -1,3 +1,3 @@
 first line
-and the second line
+und die zweite Zeile
 why not a third line as well
